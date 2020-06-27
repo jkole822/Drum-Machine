@@ -1,0 +1,55 @@
+body {
+	background-color: #21ba45;
+}
+
+.ui.container.segment {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: none;
+	max-width: 60vw !important;
+	padding: 30px;
+}
+
+.ui.relaxed.grid {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.ui.grid {
+	margin-top: 20px;
+	margin-bottom: 34px;
+}
+
+.ui.button.soundKey {
+	transition: 0.15s ease;
+	margin-bottom: 3.5px;
+}
+
+.ui.button.soundKey:hover,
+.ui.button.utility:hover {
+	background-color: #2aa848 !important;
+}
+
+.ui.button.utility {
+	margin-right: 0;
+	margin-bottom: 14px;
+}
+
+.ui.segment.display {
+	height: 50px;
+	text-align: center;
+	min-width: 100px;
+	margin-top: 0;
+}
+
+.ui.button.soundKey.playing {
+	background-color: #2aa848 !important;
+}
