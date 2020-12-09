@@ -19,4 +19,4 @@ Drum machine created with React-Redux which allows the user to play play beats w
 MIT
 
 ## Contact
--Email: jkole822@gmail.com
+Email: jkole822@gmail.com
