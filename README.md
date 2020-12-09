@@ -9,3 +9,14 @@ Drum machine created with React-Redux which allows the user to play play beats w
 ## Visuals
 
 ![Drum Machine](/public/drum-machine.png)
+
+## Technologies
+-React
+-Redux
+-Semantic UI
+
+## License
+MIT
+
+## Contact
+-Email: jkole822@gmail.com
